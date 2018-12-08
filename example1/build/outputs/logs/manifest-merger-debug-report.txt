@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [:libstreaming] /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/libstreaming/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:9:19-67
+uses-permission#android.permission.INTERNET
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:15:22-65
+application
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:17:5-34:19
+	android:label
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:21:9-41
+	android:largeHeap
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:18:2-26
+	android:icon
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:20:9-45
+	android:allowBackup
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:22:9-40
+activity#net.majorkernelpanic.example1.MainActivity
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:24:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:29:27-74
+service#net.majorkernelpanic.streaming.rtsp.RtspServer
+ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:33:9-82
+	android:name
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml:33:18-79
+uses-sdk
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+MERGED from [:libstreaming] /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/libstreaming/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:libstreaming] /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/libstreaming/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		ADDED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml
+		INJECTED from /home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+net.majorkernelpanic.example1
+drawable ic_launcher
+id surface
+layout activity_main
+string app_name
+style AppBaseTheme
+style AppTheme

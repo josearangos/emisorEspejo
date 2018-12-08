@@ -1,0 +1,4 @@
+#Sat Dec 08 15:25:52 COT 2018
+base.0=/home/josearangos/Documentos/DejavuSoftware/Proyectos/Publicidad/example1/example1/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
